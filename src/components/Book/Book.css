@@ -1,0 +1,10 @@
+.book-container {
+  border: 1px solid;
+  border-color: darkcyan;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.book-title {
+  font-weight: 700;
+}

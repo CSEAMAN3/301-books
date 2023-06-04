@@ -1,0 +1,27 @@
+.header {
+  background-color: darkcyan;
+  color: var(--wht);
+}
+
+.header-heading {
+  font-size: 1.5rem;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 1rem 0;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin-left: 1rem;
+}
+
+.header-link {
+  color: var(--wht);
+}
